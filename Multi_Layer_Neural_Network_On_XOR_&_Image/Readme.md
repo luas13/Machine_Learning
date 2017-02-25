@@ -8,11 +8,11 @@ The API documentation for the test script and other methods are provided
 with the code itself in [napolean]
 (http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) 
 format, which is popular among most deep learning python programmers and 
-is a common style guide. 
+is a common style guide. <br />
 
-The 2 problems solved using MLNN are
-1. XOR problem
-2. Find whether a given image is of Waldo or Not
+The 2 problems solved using MLNN are <br />
+1. XOR problem <br />
+2. Find whether a given image is of Waldo or Not <br />
 
 Accuracy on XOR data is above 90% while on waldo image it's around 50%. 
 More tweaks are needed.
