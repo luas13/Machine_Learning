@@ -1,5 +1,3 @@
-# will ``sample_submission`` to your submission filename.
-
 from regressor import regressor
 import numpy as np
 
